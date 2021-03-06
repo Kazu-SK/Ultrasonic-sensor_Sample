@@ -10,7 +10,7 @@ Atmega328p-puマイコンで超音波センサを使った距離測定をやっ�
 * 開発環境：Microchip Studio 7.0.2542
 * マイコン：Atmega328p-pu
 
-#センサ
+# センサ
 * HY-SRF05
 
 # プログラム
