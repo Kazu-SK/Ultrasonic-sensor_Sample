@@ -1,0 +1,8 @@
+  
+*.atsln linguist-language=C
+distance/*.xml linguist-language=C
+distance/*.cproj linguist-language=C
+
+.vs/* linguist-vendored
+image/*.jpg linguist-language=C
+distance/Debug/* linguist-vendored
