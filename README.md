@@ -1,4 +1,4 @@
-# Atmega328P-PU_ultrasonic-sensor
+# Ultrasonic-sensor_Sample
 
 Atmega328p-puマイコンで超音波センサを使った距離測定をやってみた時のメモ書き。
 忘れそうなので...。
